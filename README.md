@@ -4,6 +4,7 @@
 + PYTHON
 + C++
 + C
++ JS
 + JAVA (Android Studio)
 
 ###### 비록 아직 많이 부족하지만 앞으로 밝은 미래를 기대해보고 있습니다.
