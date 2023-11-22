@@ -1,10 +1,10 @@
 <div align="center">
   
-  <h1>👋 Hello, I am siwon!</h1>
+  <h1>👋 Hello, I am siwon</h1>
   
   <div />
   <div align="left">
-  - my personal website: https://www.siwonsw.com
+  - My personal website: https://www.siwonsw.com
   </div>
 
   
