@@ -26,7 +26,7 @@
   </tr>
 </table> -->
 
-![](https://myreadme.vercel.app/api/embed/ysw421?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![](https://myreadme.vercel.app/api/embed/ysw421?panels=userstatistics,toplanguages,commitgraph,toprepositories)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw421&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw421&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
